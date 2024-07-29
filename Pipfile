@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 py-spy = "*"
+maturin = "*"
 
 [dev-packages]
 

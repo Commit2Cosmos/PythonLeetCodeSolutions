@@ -60,4 +60,3 @@ n = 4
 
 
 sol = Solution()
-print(sol.solveNQueens(n))
