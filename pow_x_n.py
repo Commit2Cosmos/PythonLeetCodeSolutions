@@ -1,5 +1,3 @@
-import math
-
 class Solution:
     def myPow_recur(self, x: float, n: int) -> float:
 
